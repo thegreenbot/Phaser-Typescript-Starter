@@ -1,6 +1,10 @@
-6484
-56/home/runner/Phaser-Typescript-Starter/package-lock.json1670584216179070266 0
+6495
+65/home/runner/Phaser-Typescript-Starter/dist/index.b71e74eb.js.map1670584552858603929 0
+61/home/runner/Phaser-Typescript-Starter/dist/index.b71e74eb.js1670584552770604051 0
+43/home/runner/Phaser-Typescript-Starter/dist1670584552866603918 1
+56/home/runner/Phaser-Typescript-Starter/package-lock.json1670584502866673170 0
 46/home/runner/Phaser-Typescript-Starter/.replit1670582696885171903 0
+46/home/runner/Phaser-Typescript-Starter/src/css1670584410958800479 1
 62/home/runner/Phaser-Typescript-Starter/src/scenes/BaseScene.ts1670584030991326733 0
 58/home/runner/Phaser-Typescript-Starter/.build/index.js.map1658419955676325032 0
 72/home/runner/Phaser-Typescript-Starter/node_modules/inherits/inherits.js1670582818065004399 0
@@ -384,6 +388,7 @@
 101/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/TilemapLayerCanvasRenderer.js1670582823460996940 0
 100/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tweens/typedefs/TweenBuilderConfig.js1670582823564996796 0
 87/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/TilemapLayer.js1670582823460996940 0
+53/home/runner/Phaser-Typescript-Starter/src/index.html1670584378350845644 0
 89/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/TilemapFactory.js1670582823448996956 0
 89/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/TilemapCreator.js1670582823444996962 0
 79/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/Tile.js1670582823428996984 0
@@ -940,7 +945,7 @@
 83/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/regions/LA.js1670582788889044729 0
 70/home/runner/Phaser-Typescript-Starter/node_modules/source-map/LICENSE1670582775089063804 0
 62/home/runner/Phaser-Typescript-Starter/node_modules/source-map1670582779777057324 1
-51/home/runner/Phaser-Typescript-Starter/src/index.ts1670584072787268876 0
+51/home/runner/Phaser-Typescript-Starter/src/index.ts1670584551566605718 0
 99/home/runner/Phaser-Typescript-Starter/node_modules/@jridgewell/set-array/dist/types/set-array.d.ts1670582775621063069 0
 89/home/runner/Phaser-Typescript-Starter/node_modules/@swc/helpers/src/_to_property_key.mjs1670582786065048632 0
 85/home/runner/Phaser-Typescript-Starter/node_modules/mdn-data/css/syntaxes.schema.json1670582782805053138 0
@@ -1473,6 +1478,7 @@
 95/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/reporter-cli/lib/CLIReporter.js.map1670582783777051794 0
 87/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/xhtml.js1670582789889043346 0
 105/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/focusin-focusout-events.js1670582788561045182 0
+66/home/runner/Phaser-Typescript-Starter/dist/index.34df27b5.css.map1670584514958656422 0
 86/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/wasm.js1670582789821043440 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/core/src/Environment.js1670582785497049417 0
 79/home/runner/Phaser-Typescript-Starter/node_modules/cosmiconfig/dist/index.d.ts1670582782133054067 0
@@ -1481,6 +1487,7 @@
 106/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/gameobjects/group/typedefs/GroupCallback.js1670582819677002170 0
 90/home/runner/Phaser-Typescript-Starter/node_modules/source-map/lib/source-map-generator.js1670582777969059823 0
 81/home/runner/Phaser-Typescript-Starter/node_modules/source-map/lib/source-node.js1670582778421059199 0
+62/home/runner/Phaser-Typescript-Starter/dist/index.2a78bea9.css1670584438462762386 0
 81/home/runner/Phaser-Typescript-Starter/node_modules/cosmiconfig/dist/types.js.map1670582781617054780 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/cosmiconfig/dist/types.d.ts.map1670582781529054902 0
 85/home/runner/Phaser-Typescript-Starter/node_modules/weak-lru-cache/tests/benchmark.js1670582775233063605 0
@@ -1507,6 +1514,7 @@
 104/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/tilemaps/components/IsometricCullTiles.js1670582820209001435 0
 79/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/loader/filetypes1670582823792996481 1
 68/home/runner/Phaser-Typescript-Starter/node_modules/domutils/LICENSE1670582774177065064 0
+54/home/runner/Phaser-Typescript-Starter/dist/index.html1670584515362655863 0
 75/home/runner/Phaser-Typescript-Starter/node_modules/parent-module/readme.md1670582774877064097 0
 84/home/runner/Phaser-Typescript-Starter/node_modules/yaml/dist/PlainValue-ec8e588e.js1670582782289053852 0
 94/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/font-kerning.js1670582788565045177 0
@@ -1606,6 +1614,7 @@
 79/home/runner/Phaser-Typescript-Starter/node_modules/node-addon-api/CHANGELOG.md1670582782081054139 0
 60/home/runner/Phaser-Typescript-Starter/node_modules/has-flag1670582774869064108 1
 79/home/runner/Phaser-Typescript-Starter/node_modules/node-addon-api/package.json1670582781705054659 0
+55/home/runner/Phaser-Typescript-Starter/src/css/main.css1670584410958800479 0
 87/home/runner/Phaser-Typescript-Starter/node_modules/node-addon-api/package-support.json1670582781649054736 0
 73/home/runner/Phaser-Typescript-Starter/node_modules/terser/tools/exit.cjs1670582775973062582 0
 82/home/runner/Phaser-Typescript-Starter/node_modules/node-addon-api/tools/README.md1670582782461053614 0
@@ -1746,7 +1755,7 @@
 73/home/runner/Phaser-Typescript-Starter/node_modules/css-tree/lib/index.js1670582785401049550 0
 163/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm/source.js1670582786609047880 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/regions/SE.js1670582789601043744 0
-51/home/runner/Phaser-Typescript-Starter/package.json1670584280922980589 0
+51/home/runner/Phaser-Typescript-Starter/package.json1670584356406876039 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/utils/src/DefaultMap.js1670582781621054775 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/regions/SC.js1670582789597043750 0
 103/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/transformer-react-refresh-wrap/package.json1670582779561057623 0
@@ -2280,6 +2289,7 @@
 96/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/geom/intersects/CircleToCircle.js1670582818765003431 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/update-browserslist-db/utils.js1670582775433063329 0
 87/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/audio.js1670582783109052718 0
+61/home/runner/Phaser-Typescript-Starter/dist/index.18c7cba8.js1670584492962686889 0
 75/home/runner/Phaser-Typescript-Starter/node_modules/svgo/plugins/plugins.js1670582783193052602 0
 94/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/css-autofill.js1670582785885048881 0
 88/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/cache/events/ADD_EVENT.js1670582818005004481 0
@@ -2695,7 +2705,7 @@
 104/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/keyboardevent-location.js1670582788865044762 0
 91/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/layer3d/Layer3DRender.js1670582820321001281 0
 106/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/gameobjects/shape/star/StarWebGLRenderer.js1670582823300997161 0
-43/home/runner/Phaser-Typescript-Starter/.upm1670584216451069890 1
+43/home/runner/Phaser-Typescript-Starter/.upm1670584503134672799 1
 81/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/math/angle/Wrap.js1670582823788996486 0
 90/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/gameobjects/sprite/typedefs1670582823272997200 1
 109/home/runner/Phaser-Typescript-Starter/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/050-modules.md1670582785481049440 0
@@ -2781,7 +2791,7 @@
 76/home/runner/Phaser-Typescript-Starter/node_modules/@lezer/lr/dist/index.cjs1670582776577061747 0
 65/home/runner/Phaser-Typescript-Starter/.cache/replit/nix/env.json1670582622681274474 0
 107/home/runner/Phaser-Typescript-Starter/node_modules/@jridgewell/trace-mapping/dist/types/binary-search.d.ts1670582779381057871 0
-51/home/runner/Phaser-Typescript-Starter/node_modules1670584216083070399 1
+51/home/runner/Phaser-Typescript-Starter/node_modules1670584502770673303 1
 78/home/runner/Phaser-Typescript-Starter/node_modules/csso/lib/replace/String.js1670582784113051330 0
 61/home/runner/Phaser-Typescript-Starter/node_modules/json5/lib1670582781973054288 1
 100/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/gameobjects/shape/grid/GridFactory.js1670582819657002198 0
@@ -3098,7 +3108,7 @@
 91/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/sound/events/LOOPED_EVENT.js1670582820453001098 0
 94/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/input/gamepad/typedefs/index.js1670582820001001722 0
 76/home/runner/Phaser-Typescript-Starter/node_modules/terser/tools/terser.d.ts1670582786061048638 0
-38/home/runner/Phaser-Typescript-Starter1670584280922980589 1
+38/home/runner/Phaser-Typescript-Starter1670584615082517743 1
 74/home/runner/Phaser-Typescript-Starter/node_modules/json5/lib/stringify.js1670582779577057600 0
 60/home/runner/Phaser-Typescript-Starter/node_modules/svgo/bin1670582775389063389 1
 74/home/runner/Phaser-Typescript-Starter/node_modules/timsort/src/timsort.js1670582777013061144 0
@@ -3555,7 +3565,7 @@
 91/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/textures/parsers/AtlasXML.js1670582818389003951 0
 102/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/intersectionobserver.js1670582788801044850 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/runtime-browser-hmr/src1670582779877057185 1
-54/home/runner/Phaser-Typescript-Starter/.upm/store.json1670584216451069890 0
+54/home/runner/Phaser-Typescript-Starter/.upm/store.json1670584503134672799 0
 68/home/runner/Phaser-Typescript-Starter/node_modules/is-json/index.js1670582775313063494 0
 77/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/optimizer-css/src1670582778489059105 1
 74/home/runner/Phaser-Typescript-Starter/node_modules/entities/lib/encode.js1670582777985059801 0
@@ -3797,7 +3807,7 @@
 89/home/runner/Phaser-Typescript-Starter/node_modules/source-map/lib/source-map-consumer.js1670582777669060238 0
 65/home/runner/Phaser-Typescript-Starter/node_modules/svgo/bin/svgo1670582775513063218 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/utils/src/collection.js1670582780273056638 0
-57/home/runner/Phaser-Typescript-Starter/node_modules/@lmdb1670584216083070399 1
+57/home/runner/Phaser-Typescript-Starter/node_modules/@lmdb1670584502770673303 1
 73/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/animations1670582819873001900 1
 101/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/dist/SpinePluginDebug.js.map1670582823988996210 0
 82/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/core/lib/Dependency.js1670582785085049987 0
@@ -4434,6 +4444,7 @@
 97/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/geom/intersects/GetLineToPoints.js1670582819369002596 0
 112/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/keyboardevent-getmodifierstate.js1670582788861044767 0
 87/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/utils/string/RemoveAt.js1670582822356998466 0
+62/home/runner/Phaser-Typescript-Starter/dist/index.34df27b5.css1670584514890656517 0
 102/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/plugins/typedefs/CorePluginContainer.js1670582818957003166 0
 79/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/packager-js/LICENSE1670582778513059071 0
 85/home/runner/Phaser-Typescript-Starter/node_modules/caniuse-lite/data/features/mp3.js1670582789293044170 0
@@ -5238,7 +5249,7 @@
 86/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/packager-js/lib/helpers.js1670582781585054825 0
 93/home/runner/Phaser-Typescript-Starter/node_modules/@lmdb/lmdb-linux-x64/node.abi93.musl.node1670582787865046144 0
 92/home/runner/Phaser-Typescript-Starter/node_modules/@lmdb/lmdb-linux-x64/node.napi.musl.node1670582788485045287 0
-69/home/runner/Phaser-Typescript-Starter/node_modules/@msgpackr-extract1670584216083070399 1
+69/home/runner/Phaser-Typescript-Starter/node_modules/@msgpackr-extract1670584502770673303 1
 90/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/loader/filetypes/XMLFile.js1670582823792996481 0
 119/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/gameobjects/bitmaptext/typedefs/DisplayCallbackConfig.js1670582819013003088 0
 74/home/runner/Phaser-Typescript-Starter/node_modules/lightningcss/README.md1670582775977062576 0
@@ -5808,7 +5819,7 @@
 86/home/runner/Phaser-Typescript-Starter/node_modules/css-what/lib/es/stringify.d.ts.map1670582779585057589 0
 66/home/runner/Phaser-Typescript-Starter/node_modules/clone/clone.js1670582779569057611 0
 74/home/runner/Phaser-Typescript-Starter/node_modules/.bin/browserslist-lint1670582796061034815 0
-70/home/runner/Phaser-Typescript-Starter/node_modules/.package-lock.json1670584216251070166 0
+70/home/runner/Phaser-Typescript-Starter/node_modules/.package-lock.json1670584502954673049 0
 75/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/camera3d1670582824068996099 1
 66/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins1670582820313001291 1
 76/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/src1670582823072997476 1
@@ -5821,7 +5832,7 @@
 104/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/src/runtimes/spine-webgl.js.map1670582823904996326 0
 77/home/runner/Phaser-Typescript-Starter/node_modules/@parcel/transformer-image1670582778433059182 1
 107/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/dist/SpineCanvasPluginDebug.js.map1670582823956996254 0
-42/home/runner/Phaser-Typescript-Starter/src1670584180331119919 1
+42/home/runner/Phaser-Typescript-Starter/src1670584551566605718 1
 101/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/src/runtimes/spine-both.d.ts1670582824272995817 0
 83/home/runner/Phaser-Typescript-Starter/node_modules/phaser/plugins/spine/src/events1670582823300997161 1
 106/home/runner/Phaser-Typescript-Starter/node_modules/phaser/src/input/events/GAMEOBJECT_DRAG_ENTER_EVENT.js1670582819269002734 0
