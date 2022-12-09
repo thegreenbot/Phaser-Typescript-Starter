@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/css/main.css"],"sourcesContent":["#game {\n  margin: 0;\n}\n\nbody {\n  background-color: #000000;\n  margin: 0;\n}"],"names":[],"version":3,"file":"index.34df27b5.css.map","sourceRoot":"/__parcel_source_root/"}

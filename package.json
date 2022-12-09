@@ -1,0 +1,19 @@
+{
+  "name": "phaser-typescript-starter",
+  "version": "1.0.0",
+  "description": "A Typescript Starter for Phaser Games using Parcel",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build --no-source-maps",
+    "copy-assets": "cp -r src/assets/* dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.1",
+    "phaser": "^3.55.2"
+  }
+}
